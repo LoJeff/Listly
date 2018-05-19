@@ -1,0 +1,9 @@
+{
+  "name": "listly",
+  "version": "0.0.0",
+  "description": "Listly",
+  "main": "app.js",
+  "author": {
+    "name": "Jeff Lo"
+  }
+}
